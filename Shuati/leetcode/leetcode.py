@@ -194,4 +194,4 @@ def find_median_sorted_arrays(nums1, nums2):
 
 
 if __name__ == '__main__':
-	print(find_median_sorted_arrays([1, 2],[3, 4]))
+	print(find_median_sorted_arrays([1, 2], [3, 4]))

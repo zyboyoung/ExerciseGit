@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb7a7bbf-5c06-4638-8199-231270faf332" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/leetcode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_engineer/.idea/Data_engineer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_engineer/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_engineer/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_engineer/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_engineer/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data_engineer/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectOrientedProgramming/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ObjectOrientedProgramming/method__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyTorch/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PyTorch/exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/10134.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1035.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/10454.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1063.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1064.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/10653.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/10771.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/109.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1091.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/10945.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11080.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11090.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11352.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11419.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11560.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11616.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11812.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11827.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/11992.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12176.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1228.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12351.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12362.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12445.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12539.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12677.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12737.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12761.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12774.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12889.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12930.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/12931.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/13076.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1321.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/13371.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/13430.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/13622.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/13836.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14074.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14114.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14212.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1440.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14469.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1447.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14723.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14745.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14802.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14979.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/14983.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/15008.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/15394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/15409.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/15667.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/15724.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/15750.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/15872.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16030.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16041.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16133.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16146.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16228.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16362.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16466.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16586.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16715.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16738.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16744.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16764.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16792.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/16870.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/17152.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/17305.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/17593.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/176.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/17712.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/17729.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/17801.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/17904.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18108.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18375.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18520.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18525.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18633.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1866.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18751.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1878.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18922.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/18987.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19069.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19185.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19413.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/1946.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19478.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19812.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19822.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19873.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19899.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19932.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/19944.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/20144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/20200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/20261.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/20433.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/20717.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21019.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2105.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21051.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21132.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21140.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21174.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21249.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21279.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2134.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21347.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2144.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21690.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21776.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/21899.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22345.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22509.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22571.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22577.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/226.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22601.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22633.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22645.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22704.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2285.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/22944.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/23060.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/23249.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/23647.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/23672.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/23959.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24065.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24164.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24255.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24448.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24510.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24530.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24567.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24581.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24595.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24644.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/24885.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/25136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/25194.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/25311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2539.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/25547.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/25632.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/25923.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/26074.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/26202.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/26234.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/26372.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2658.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/270.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27064.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27107.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/2718.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27190.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27258.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27401.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27531.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27652.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27720.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27738.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/27898.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28374.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28389.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28426.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28529.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28850.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28928.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/28935.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29034.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29319.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29446.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29494.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29521.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29704.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29789.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29834.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29858.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29888.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/29994.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30076.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30257.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30318.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30395.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30645.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30934.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/30983.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/31117.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/31232.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/31280.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/31302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/31491.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/31981.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/32086.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/32308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/32459.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/32544.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/32742.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/32752.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/32837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33131.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33179.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33203.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33630.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33746.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/33791.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3390.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34147.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3423.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34242.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34296.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34515.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34548.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34563.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34663.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3469.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/34764.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35035.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35128.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35247.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35302.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35368.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35520.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35559.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/35616.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3572.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3651.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36542.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36594.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36624.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36656.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36729.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36832.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36871.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/36894.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37055.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37259.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37351.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37468.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37493.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37522.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37638.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37695.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37718.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37781.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/37905.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/381.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/38146.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/38188.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/38192.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/38221.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/38267.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3864.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/38673.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/38733.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3924.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39258.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/3928.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39310.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39405.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39483.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39820.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39890.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39983.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/39994.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40033.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40068.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40257.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40377.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/404.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40413.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40521.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40627.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/40940.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/41004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/41055.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/41386.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/41417.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/41894.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/41968.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/42197.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/42478.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/42934.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43083.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43267.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43597.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43708.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43807.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43848.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43864.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/43923.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44013.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44038.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44214.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44221.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44481.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4465.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44848.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44875.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/44890.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4506.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45084.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45243.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45275.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4530.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45383.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45567.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45636.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45657.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45675.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45808.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/45925.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46145.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46206.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46276.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4630.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46518.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46595.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46726.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4682.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46945.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/46992.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4701.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47199.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47248.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47269.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47329.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47454.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47673.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47842.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47850.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47856.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47867.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/47882.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48089.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48179.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48464.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48551.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4861.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48614.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48669.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48909.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/48930.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4918.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/49214.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4931.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/49337.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/49394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/49768.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/49787.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/49856.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/49892.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/4992.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/50187.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/50374.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/50678.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/50761.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51066.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51106.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51107.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51450.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51492.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51696.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51783.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/51833.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52069.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52149.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52184.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52205.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52323.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52349.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52390.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/52400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/5289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53027.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/531.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53206.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53233.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53248.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53315.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53542.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53544.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53725.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53811.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53819.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53824.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53897.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/53984.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/54001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/54379.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/5442.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/54606.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/54610.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/54714.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55067.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55205.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55220.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55286.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55287.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55325.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55356.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55449.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55552.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55621.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55868.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55887.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55937.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/55940.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/56000.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/56149.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/5630.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/56300.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/56408.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/56582.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/56617.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57011.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57327.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57566.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57589.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57622.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57709.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57730.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57831.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57882.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/57901.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58156.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58170.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58183.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58240.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58341.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58791.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58832.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58858.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/58973.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/59049.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/59316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/59599.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/59672.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/59808.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/60138.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/60154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/60171.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/603.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/60659.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/60804.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/60832.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/60838.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/61058.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/6123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/6125.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/61270.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/61274.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/61416.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/61837.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/62026.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/62030.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/62369.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/62387.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/62569.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/62628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/62826.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63031.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63154.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63181.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63191.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63414.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63528.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63643.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63804.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63875.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63949.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/63997.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64045.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64085.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64122.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64440.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64466.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64511.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64602.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64821.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64956.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/64974.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65126.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65166.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65277.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65384.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65415.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/6549.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65514.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65698.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65708.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65764.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65768.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/65829.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/66015.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/66200.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/66203.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/66349.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/66351.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/66402.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/665.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/66783.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/668.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67036.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67060.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67196.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67233.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67375.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67542.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67572.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67751.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67773.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67824.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/67999.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68010.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68023.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68030.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68242.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68507.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68559.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68586.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68609.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68613.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68628.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68750.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68790.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68947.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/68974.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69210.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69222.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69280.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69444.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69556.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69684.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69757.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69785.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69853.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69972.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/69983.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70141.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70168.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70208.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70384.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70397.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70557.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7057.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70671.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70877.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/70915.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/71178.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/71232.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/71245.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/71297.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/71454.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/71773.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/71787.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/72092.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/72442.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/72452.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/72571.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/72782.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/72946.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7298.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/730.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/73256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/73281.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7331.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/73389.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/73422.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/73718.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/73840.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/74219.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7422.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/74357.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7440.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/74576.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/74671.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/74736.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/74862.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/74921.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75101.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75159.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75161.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75198.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7520.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75249.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75290.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75481.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75518.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75533.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7556.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75600.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75651.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75722.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75838.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75878.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/75978.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76017.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76116.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76131.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76441.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76629.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76689.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76840.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76887.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76920.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/76945.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77074.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77163.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77186.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77480.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77575.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/77752.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78130.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78211.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78311.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78399.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78668.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78713.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78767.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78862.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/78901.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/79128.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/79396.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/79479.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/79484.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/79566.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/7973.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/79866.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80009.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80057.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80100.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80234.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80304.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80326.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80499.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80504.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8060.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80834.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80920.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/80968.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81039.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81281.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81412.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81455.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81488.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81622.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81654.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81768.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81810.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/819.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/81931.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82137.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82223.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82371.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82430.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82431.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82483.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82519.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8258.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82593.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82706.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82785.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82814.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82852.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8289.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/82896.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8308.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83168.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83235.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83248.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83398.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83422.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83445.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83493.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83564.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83694.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83779.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83808.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83831.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83916.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/83931.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84034.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84134.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84135.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84193.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8424.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84291.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84411.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84429.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84619.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84642.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84844.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/84854.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8514.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85346.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85503.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85632.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85683.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85722.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85827.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85828.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/85839.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8587.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8601.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/86079.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/86545.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/86692.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/86774.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/86793.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/86847.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/86874.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8700.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87096.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8716.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87196.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87282.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87449.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87476.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87492.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8755.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87594.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87617.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87771.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/87933.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8798.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88024.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/8810.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88143.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88177.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88199.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88223.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88241.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88244.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88256.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88394.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88754.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88944.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/88985.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89095.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89160.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89197.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89272.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/893.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89307.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89357.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89519.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89587.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/89835.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/90052.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/90506.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9058.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/90763.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/90792.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/90923.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/90949.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/90980.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91038.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91046.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91136.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9118.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91285.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91316.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91523.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91555.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91570.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91586.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91669.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91793.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/91965.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92043.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9207.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92265.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92414.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92450.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92453.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92509.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92525.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92578.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92642.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92736.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92752.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92781.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/92797.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9301.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/93059.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/93237.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/934.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/93575.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/93756.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9384.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94070.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94079.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94091.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94118.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94119.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94159.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94191.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94277.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94363.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94510.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94666.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9472.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94758.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94833.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/94968.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95032.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95085.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95205.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95457.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95637.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95660.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95662.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95731.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95763.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/95791.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/96123.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9623.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/96333.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/96467.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/96644.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97089.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/9715.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97338.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97400.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97422.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97430.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97486.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97515.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97649.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97673.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97812.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97937.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/97979.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98034.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98044.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98094.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98095.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98119.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98155.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98181.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98246.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98339.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98709.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98848.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98913.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/98939.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/99189.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/992.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/99254.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/99460.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/99714.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/99775.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/99905.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/channel.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zip/readme.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Shuati$leetcode.coverage" NAME="leetcode Coverage Results" MODIFIED="1535506199208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="399534572">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="121" />
+          <entry key="py" value="3676" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="3797" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/leetcode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+                <marker date="1535648991944" expanded="true" signature="2715:3115" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/leetcode/leetcode.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="480" />
+    <option name="y" value="40" />
+    <option name="width" value="1155" />
+    <option name="height" value="940" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8NamingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Shuati" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shuati" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shuati" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shuati" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="leetcode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Shuati" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/leetcode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.leetcode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb7a7bbf-5c06-4638-8199-231270faf332" name="Default Changelist" comment="" />
+      <created>1534917931461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534917931461</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="384" y="32" width="924" height="752" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.204388" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32765958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.36312056" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leetcode/leetcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+            <marker date="1535648991944" expanded="true" signature="2715:3115" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
